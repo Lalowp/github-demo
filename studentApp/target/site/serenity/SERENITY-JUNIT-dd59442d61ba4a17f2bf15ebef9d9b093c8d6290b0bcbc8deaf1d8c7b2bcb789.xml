@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.studentApp.junit.studentsinfo.FirstSerenityTest" skipped="0" tests="1" time="0.0" timestamp="2021-02-05 10:41:44"><testcase classname="com.studentApp.junit.studentsinfo.FirstSerenityTest" name="Initialisation"><error message="Tag expression 'studentfeature:smoke, negative' could not be parsed because of syntax error: expected operator" type="io.cucumber.tagexpressions.TagExpressionException">Tag expression 'studentfeature:smoke, negative' could not be parsed because of syntax error: expected operator</error><system-err>Tag expression 'studentfeature:smoke, negative' could not be parsed because of syntax error: expected operator&#13;
+io.cucumber.tagexpressions.TagExpressionParser.check(TagExpressionParser.java:136)&#13;
+io.cucumber.tagexpressions.TagExpressionParser.parse(TagExpressionParser.java:74)&#13;
+io.cucumber.tagexpressions.TagExpressionParser.parse(TagExpressionParser.java:27)&#13;
+</system-err></testcase></testsuite>
